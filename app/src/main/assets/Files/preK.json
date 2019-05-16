@@ -302,7 +302,7 @@
   {
     "secondSentence": {
       "highlightWord": "look",
-      "audioFileName": "Pre-K Sight Words/look-2 Jack in the box says \"Look at me!\"",
+      "audioFileName": "Pre-K Sight Words/look-2 Jack in the box says Look at me!",
       "imageFileName": "Pre-K Sight Words Art/look-2 fork-lift2.jpg",
       "text": "Jack in the box says \"Look at me!\""
     },
@@ -339,7 +339,7 @@
     "text": "me",
     "secondSentence": {
       "highlightWord": "me",
-      "audioFileName": "Pre-K Sight Words/me-2 The clown waves and says \"Look at me!\"",
+      "audioFileName": "Pre-K Sight Words/me-2 The clown waves and says Look at me!",
       "imageFileName": "Pre-K Sight Words Art/me-2 moving-truck2.jpg",
       "text": "The clown waves and says \"Look at me!\""
     }
@@ -437,7 +437,7 @@
   {
     "secondSentence": {
       "highlightWord": "said",
-      "audioFileName": "Pre-K Sight Words/said-1 His mouth said \"I want to go for a walk;\"",
+      "audioFileName": "Pre-K Sight Words/said-1 His mouth said I want to go for a walk;",
       "imageFileName": "Pre-K Sight Words Art/said-1 beagle.jpg",
       "text": "His mouth said \"I want to go for a walk.\""
     },
