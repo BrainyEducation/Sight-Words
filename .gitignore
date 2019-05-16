@@ -1,5 +1,6 @@
 # Custom added
 app/build/
+*.DS_Store
 
 # Built application files
 *.apk
