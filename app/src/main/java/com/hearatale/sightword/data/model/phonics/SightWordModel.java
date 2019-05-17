@@ -9,14 +9,17 @@ public class SightWordModel extends BaseModel {
     private int starCount = 0;
     private SentenceModel firstSentence = new SentenceModel();
     private SentenceModel secondSentence = new SentenceModel();
+    private String focus_item_id = "";
 
     public SightWordModel() {
     }
 
-    public SightWordModel(String text, SentenceModel firstSentence, SentenceModel secondSentence) {
+    public SightWordModel(String text, SentenceModel firstSentence, SentenceModel secondSentence,
+                          String focus_item_id) {
         this.text = text;
         this.firstSentence = firstSentence;
         this.secondSentence = secondSentence;
+        this.focus_item_id = focus_item_id;
     }
 
     public String getText() {
@@ -51,6 +54,10 @@ public class SightWordModel extends BaseModel {
         this.secondSentence = secondSentence;
     }
 
+    public String getFocusItemID() { return focus_item_id; }
+
+    public void setFocusItemID(String focus_item_id) { this.focus_item_id = focus_item_id; }
+
     @Override
     public int describeContents() {
         return 0;
@@ -62,6 +69,7 @@ public class SightWordModel extends BaseModel {
         dest.writeInt(this.starCount);
         dest.writeParcelable(this.firstSentence, flags);
         dest.writeParcelable(this.secondSentence, flags);
+        dest.writeString(this.focus_item_id);
     }
 
     protected SightWordModel(Parcel in) {
@@ -69,6 +77,7 @@ public class SightWordModel extends BaseModel {
         this.starCount = in.readInt();
         this.firstSentence = in.readParcelable(SentenceModel.class.getClassLoader());
         this.secondSentence = in.readParcelable(SentenceModel.class.getClassLoader());
+        this.focus_item_id = in.readString();
     }
 
     public static final Creator<SightWordModel> CREATOR = new Creator<SightWordModel>() {
