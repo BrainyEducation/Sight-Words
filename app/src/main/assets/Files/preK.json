@@ -12,7 +12,8 @@
       "audioFileName": "Pre-K Sight Words/A-2 A rabbit is in a hat",
       "imageFileName": "Pre-K Sight Words Art/A-2 Top hat.jpg",
       "text": "A rabbit is in a hat."
-    }
+    },
+    "focus_item_id": "000"
   },
   {
     "firstSentence": {
@@ -27,7 +28,8 @@
       "audioFileName": "Pre-K Sight Words/and-1 Mother and child",
       "imageFileName": "Pre-K Sight Words Art/and-1 Lady with stroller.jpg",
       "text": "mother and child"
-    }
+    },
+    "focus_item_id": "001"
   },
   {
     "firstSentence": {
@@ -42,7 +44,8 @@
       "audioFileName": "Pre-K Sight Words/away-1 People use a suitcase when they go away",
       "imageFileName": "Pre-K Sight Words Art/away-1 suitcase or luggage.jpg",
       "text": "People use a suitcase when they go away."
-    }
+    },
+    "focus_item_id": "002"
   },
   {
     "firstSentence": {
@@ -57,7 +60,8 @@
       "audioFileName": "Pre-K Sight Words/big-2 The rhinoceros is as big as the birdy is small",
       "imageFileName": "Pre-K Sight Words Art/big-2 rhinoceros.jpg",
       "text": "The rhinoceros is as big as the birdy is small."
-    }
+    },
+    "focus_item_id": "003"
   },
   {
     "secondSentence": {
@@ -72,7 +76,8 @@
       "audioFileName": "Pre-K Sight Words/blue-2 a blue wheelchair",
       "imageFileName": "Pre-K Sight Words Art/blue-2 girl in a wheelchair.jpg",
       "text": "a blue wheelchair"
-    }
+    },
+    "focus_item_id": "004"
   },
   {
     "firstSentence": {
@@ -87,7 +92,8 @@
       "audioFileName": "Pre-K Sight Words/can-2 The boy can walk on stilts",
       "imageFileName": "Pre-K Sight Words Art/can-2 stilts.jpg",
       "text": "The boy can walk on stilts."
-    }
+    },
+    "focus_item_id": "005"
   },
   {
     "firstSentence": {
@@ -102,7 +108,8 @@
       "audioFileName": "Pre-K Sight Words/come-2 The boy runs to come home",
       "imageFileName": "Pre-K Sight Words Art/come-2 running boy.jpg",
       "text": "The boy runs to come home."
-    }
+    },
+    "focus_item_id": "006"
   },
   {
     "firstSentence": {
@@ -117,7 +124,8 @@
       "audioFileName": "Pre-K Sight Words/down-2 His ice cream fell down",
       "imageFileName": "Pre-K Sight Words Art/down-2 ice cream dropped.jpg",
       "text": "His ice cream fell down."
-    }
+    },
+    "focus_item_id": "007"
   },
   {
     "firstSentence": {
@@ -132,7 +140,8 @@
       "audioFileName": "Pre-K Sight Words/find-2 What does the pirate want to find",
       "imageFileName": "Pre-K Sight Words Art/find-2 pirate.jpg",
       "text": "What does the pirate want to find?"
-    }
+    },
+    "focus_item_id": "008"
   },
   {
     "secondSentence": {
@@ -147,7 +156,8 @@
       "audioFileName": "Pre-K Sight Words/for-2 This truck brings sandwiches for hungry people",
       "imageFileName": "Pre-K Sight Words Art/for-2 food-truck.jpg",
       "text": "This truck brings sandwiches for hungry people."
-    }
+    },
+    "focus_item_id": "009"
   },
   {
     "firstSentence": {
@@ -162,7 +172,8 @@
       "audioFileName": "Pre-K Sight Words/funny-1 Clowns are funny",
       "imageFileName": "Pre-K Sight Words Art/funny-1 clown with balloons.jpg",
       "text": "Clowns are funny."
-    }
+    },
+    "focus_item_id": "00A"
   },
   {
     "firstSentence": {
@@ -177,7 +188,8 @@
       "audioFileName": "Pre-K Sight Words/go-1 He rides to go home",
       "imageFileName": "Pre-K Sight Words Art/go-1 boy in a wheelchair.jpg",
       "text": "He rides to go home."
-    }
+    },
+    "focus_item_id": "00B"
   },
   {
     "firstSentence": {
@@ -192,7 +204,8 @@
       "audioFileName": "Pre-K Sight Words/help-2 An ambulance will help people get to the hospital",
       "imageFileName": "Pre-K Sight Words Art/help-2 ambulance2.jpg",
       "text": "An ambulance will help people get to the hospital."
-    }
+    },
+    "focus_item_id": "00C"
   },
   {
     "firstSentence": {
@@ -207,7 +220,8 @@
       "audioFileName": "Pre-K Sight Words/here-1 No one is sitting here",
       "imageFileName": "Pre-K Sight Words Art/here-1 bench.jpg",
       "text": "No one is sitting here."
-    }
+    },
+    "focus_item_id": "00D"
   },
   {
     "firstSentence": {
@@ -222,7 +236,8 @@
       "audioFileName": "Pre-K Sight Words/I-1 I don't know",
       "imageFileName": "Pre-K Sight Words Art/I-1 I don't know.jpg",
       "text": "I don't know."
-    }
+    },
+    "focus_item_id": "00E"
   },
   {
     "secondSentence": {
@@ -237,7 +252,8 @@
       "audioFileName": "Pre-K Sight Words/in-1 a Jack in the box",
       "imageFileName": "Pre-K Sight Words Art/in-1 Jack in the box.jpg",
       "text": "a Jack in the box"
-    }
+    },
+    "focus_item_id": "00F"
   },
   {
     "secondSentence": {
@@ -252,7 +268,8 @@
       "audioFileName": "Pre-K Sight Words/is-1 The boy is holding a teddybear",
       "imageFileName": "Pre-K Sight Words Art/is-1 boy with a teddy bear.jpg",
       "text": "The boy is holding a teddy bear."
-    }
+    },
+    "focus_item_id": "010"
   },
   {
     "secondSentence": {
@@ -267,7 +284,8 @@
       "audioFileName": "Pre-K Sight Words/it-1 It had a wreck and it had to be towed",
       "imageFileName": "Pre-K Sight Words Art/it-1 tow-truck.jpg",
       "text": "It had a wreck and it had to be towed."
-    }
+    },
+    "focus_item_id": "011"
   },
   {
     "firstSentence": {
@@ -282,7 +300,8 @@
       "audioFileName": "Pre-K Sight Words/jump-2 She will jump",
       "imageFileName": "Pre-K Sight Words Art/jump-2 frog pads.jpg",
       "text": "She will jump."
-    }
+    },
+    "focus_item_id": "012"
   },
   {
     "secondSentence": {
@@ -297,7 +316,8 @@
       "audioFileName": "Pre-K Sight Words/little-2 A little bride and groom are on the cake",
       "imageFileName": "Pre-K Sight Words Art/little-2 wedding cake.jpg",
       "text": "A little bride and groom are on the cake."
-    }
+    },
+    "focus_item_id": "013"
   },
   {
     "secondSentence": {
@@ -312,7 +332,8 @@
       "audioFileName": "Pre-K Sight Words/look-1 A man with a cane needs to look where he walks",
       "imageFileName": "Pre-K Sight Words Art/look-1 older man walking.jpg",
       "text": "A man with a cane needs to look where he walks."
-    }
+    },
+    "focus_item_id": "014"
   },
   {
     "secondSentence": {
@@ -327,7 +348,8 @@
       "audioFileName": "Pre-K Sight Words/make-1 A guitar can make music",
       "imageFileName": "Pre-K Sight Words Art/make-1 guitar player.jpg",
       "text": "A guitar can make music."
-    }
+    },
+    "focus_item_id": "015"
   },
   {
     "firstSentence": {
@@ -342,7 +364,8 @@
       "audioFileName": "Pre-K Sight Words/me-2 The clown waves and says Look at me!",
       "imageFileName": "Pre-K Sight Words Art/me-2 moving-truck2.jpg",
       "text": "The clown waves and says \"Look at me!\""
-    }
+    },
+    "focus_item_id": "016"
   },
   {
     "secondSentence": {
@@ -357,7 +380,8 @@
       "audioFileName": "Pre-K Sight Words/my-2 My brother drives a dune buggy",
       "imageFileName": "Pre-K Sight Words Art/my-2 dune-buggy2.jpg",
       "text": "My brother drives a dune buggy."
-    }
+    },
+    "focus_item_id": "017"
   },
   {
     "firstSentence": {
@@ -372,7 +396,8 @@
       "audioFileName": "Pre-K Sight Words/not-2 The unicycle does not have a rider",
       "imageFileName": "Pre-K Sight Words Art/not-2 unicycle.jpg",
       "text": "The unicycle does not have a rider."
-    }
+    },
+    "focus_item_id": "018"
   },
   {
     "firstSentence": {
@@ -387,7 +412,8 @@
       "audioFileName": "Pre-K Sight Words/one-1 one towtruck and one wrecked car",
       "imageFileName": "Pre-K Sight Words Art/one-1 flat-bed-tow-truck2.jpg",
       "text": "one towtruck and one wrecked car"
-    }
+    },
+    "focus_item_id": "019"
   },
   {
     "secondSentence": {
@@ -402,7 +428,8 @@
       "audioFileName": "Pre-K Sight Words/play-2 He likes to play on parallel bars",
       "imageFileName": "Pre-K Sight Words Art/play-2 parallel bars.jpg",
       "text": "He likes to play on parallel bars."
-    }
+    },
+    "focus_item_id": "01A"
   },
   {
     "firstSentence": {
@@ -417,7 +444,8 @@
       "audioFileName": "Pre-K Sight Words/red-2 The top light is red",
       "imageFileName": "Pre-K Sight Words Art/red-2 traffic light.jpg",
       "text": "The top light is red."
-    }
+    },
+    "focus_item_id": "01B"
   },
   {
     "secondSentence": {
@@ -432,7 +460,8 @@
       "audioFileName": "Pre-K Sight Words/run-1 She wears pink to run",
       "imageFileName": "Pre-K Sight Words Art/run-1 runner woman.jpg",
       "text": "She wears pink to run."
-    }
+    },
+    "focus_item_id": "01C"
   },
   {
     "secondSentence": {
@@ -447,7 +476,8 @@
       "audioFileName": "Pre-K Sight Words/said-2 The little boy said he wanted to ride the tractor",
       "imageFileName": "Pre-K Sight Words Art/said-2 farm-tractor2.jpg",
       "text": "The little boy said he wanted to ride the tractor."
-    }
+    },
+    "focus_item_id": "01D"
   },
   {
     "secondSentence": {
@@ -462,7 +492,8 @@
       "audioFileName": "Pre-K Sight Words/see-1 They like people to see their flowers",
       "imageFileName": "Pre-K Sight Words Art/see-1 girl walking a dog.jpg",
       "text": "They like people to see their flowers."
-    }
+    },
+    "focus_item_id": "01E"
   },
   {
     "secondSentence": {
@@ -477,7 +508,8 @@
       "audioFileName": "Pre-K Sight Words/the-1 The schoolbus brings the kids to school",
       "imageFileName": "Pre-K Sight Words Art/the-1 school-bus2.jpg",
       "text": "The schoolbus brings the kids to school."
-    }
+    },
+    "focus_item_id": "01F"
   },
   {
     "secondSentence": {
@@ -492,7 +524,8 @@
       "audioFileName": "Pre-K Sight Words/three-1 three bunches of grapes",
       "imageFileName": "Pre-K Sight Words Art/three-1 grapes.jpg",
       "text": "three bunches of grapes"
-    }
+    },
+    "focus_item_id": "020"
   },
   {
     "firstSentence": {
@@ -507,7 +540,8 @@
       "audioFileName": "Pre-K Sight Words/to-2 He's bringing a present to someone",
       "imageFileName": "Pre-K Sight Words Art/to-2 boy carrying a present.jpg",
       "text": "He's bringing a present to someone."
-    }
+    },
+    "focus_item_id": "021"
   },
   {
     "secondSentence": {
@@ -522,7 +556,8 @@
       "audioFileName": "Pre-K Sight Words/two-1 two donuts",
       "imageFileName": "Pre-K Sight Words Art/two-1 dougnuts glazed.jpg",
       "text": "two donuts"
-    }
+    },
+    "focus_item_id": "022"
   },
   {
     "firstSentence": {
@@ -537,7 +572,8 @@
       "audioFileName": "Pre-K Sight Words/up-1 The ball goes up",
       "imageFileName": "Pre-K Sight Words Art/up-1 volleyball net.jpg",
       "text": "The ball goes up over the net."
-    }
+    },
+    "focus_item_id": "023"
   },
   {
     "secondSentence": {
@@ -552,7 +588,8 @@
       "audioFileName": "Pre-K Sight Words/we-2 We love to ride on a moped",
       "imageFileName": "Pre-K Sight Words Art/we-2 moped2.jpg",
       "text": "We love to ride on a moped."
-    }
+    },
+    "focus_item_id": "024"
   },
   {
     "firstSentence": {
@@ -567,7 +604,8 @@
       "audioFileName": "Pre-K Sight Words/where-1 Where is he riding",
       "imageFileName": "Pre-K Sight Words Art/where-1 riding a pay horse.jpg",
       "text": "Where is he riding?"
-    }
+    },
+    "focus_item_id": "025"
   },
   {
     "secondSentence": {
@@ -582,7 +620,8 @@
       "audioFileName": "Pre-K Sight Words/yellow-1 A yellow sweater",
       "imageFileName": "Pre-K Sight Words Art/yellow-1 loitering.jpg",
       "text": "a yellow sweater"
-    }
+    },
+    "focus_item_id": "026"
   },
   {
     "secondSentence": {
@@ -597,6 +636,7 @@
       "audioFileName": "Pre-K Sight Words/you-1 If you have money you can ride a bus",
       "imageFileName": "Pre-K Sight Words Art/you-1 city-bus2.jpg",
       "text": "If you have money you can ride a bus."
-    }
+    },
+    "focus_item_id": "027"
   }
 ]
